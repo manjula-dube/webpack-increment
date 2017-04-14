@@ -1,2 +1,2 @@
 
-# My Terrible webiste
+# My Terrible website
